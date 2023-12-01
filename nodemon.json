@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": ".ts,.js,.txt",
+  "ignore": [],
+  "exec": "bun ./src/2023/01/task.ts"
+}
